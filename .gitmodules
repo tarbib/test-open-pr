@@ -1,0 +1,4 @@
+[submodule "Camille0907/server-auth"]
+	path = Camille0907/server-auth
+	url = git@github.com:Camille0907/server-auth.git
+	branch = 15.0
