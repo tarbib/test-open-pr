@@ -2,3 +2,8 @@
 	path = Camille0907/server-auth
 	url = git@github.com:Camille0907/server-auth.git
 	branch = 15.0
+
+[submodule "camptocamp/web"]
+	path = camptocamp/web
+	url = git@github.com:camptocamp/web.git
+	branch = 15.0-mig-web_advanced_search
