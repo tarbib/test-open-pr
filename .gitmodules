@@ -7,3 +7,8 @@
 	path = camptocamp/web
 	url = git@github.com:camptocamp/web.git
 	branch = 15.0-mig-web_advanced_search
+
+[submodule "Camille0907/enea_odoo"]
+	path = Camille0907/enea_odoo
+	url = git@github.com:Camille0907/enea_odoo.git
+	branch = ENEA-398
