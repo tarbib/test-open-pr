@@ -12,3 +12,8 @@
 	path = Camille0907/enea_odoo
 	url = git@github.com:Camille0907/enea_odoo.git
 	branch = ENEA-398
+
+[submodule "tarbib/enea_odoo"]
+	path = tarbib/enea_odoo
+	url = git@github.com:tarbib/enea_odoo.git
+	branch = ENEA-398
